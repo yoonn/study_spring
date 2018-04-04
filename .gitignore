@@ -21,6 +21,8 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
+# http://www.33gram.com/git-git-ignore-%ED%8C%8C%EC%9D%BC-eclipse-maven-java/
+
 ### Eclipse ###
 *.pydevproject
 .metadata
@@ -63,3 +65,7 @@ release.properties
 
 ### Java ###
 *.class
+
+# me
+
+pom.properties
